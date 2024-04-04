@@ -22,4 +22,4 @@ And I tried out:
 4. Blogger
 5. WordPress
 
-But, hey, this is what clicked. open-blog is basically my blogging repository, and the issues are the blogs.
+But, hey, this is what clicked. open-blog is basically my blogging repository, and the [issues](https://github.com/qwertyvipul/open-blog/issues) are the blogs.
